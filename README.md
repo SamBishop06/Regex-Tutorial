@@ -4,7 +4,7 @@
 
 In this Email-Regex-Tutorial, you will learn how to validate email addresses using regular expressions (regex). The email regex is comprised of the following components: `^(.+)@(.+)\.(.+)$`. Upon completion of this tutorial, you should have a thorough understanding of how the email regex operates and a detailed breakdown of its individual elements.
 
-[Github Gist](https://gist.github.com/Sulxy/b5acb69369796d9e8554fb298016a55a)
+[Github Gist](https://gist.github.com/SamBishop06/fc21777e9cd8885e4f3970e5eee17405)
 
 ## Table of Contents:
 - [User Story](#user-story)
@@ -37,11 +37,11 @@ THEN I find a section about the author and a link to the author’s GitHub profi
 
 ## Github Gist
 
-[Github Gist](https://gist.github.com/SamBishop06/199bfc4ac41b1d3538ac7b05c56467ec)
+[Github Gist](https://gist.github.com/SamBishop06/fc21777e9cd8885e4f3970e5eee17405)
 
 ## Author
 
 Hello! My name is Sam, and I am a student currently with the University of Texas at San Antonio's Coding Bootcamp. 
-[Deployed Github-Gist](https://gist.github.com/SamBishop06/199bfc4ac41b1d3538ac7b05c56467ec). 
+[Deployed Github-Gist](https://gist.github.com/SamBishop06/fc21777e9cd8885e4f3970e5eee17405). 
 Follow me on Github at [SamBishop06](https://github.com/SamBishop06).
 
